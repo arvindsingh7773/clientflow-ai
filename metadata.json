@@ -1,0 +1,8 @@
+{
+  "name": "ClientFlow AI",
+  "description": "Next-generation AI-powered B2B and Freelancer Marketplace",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
